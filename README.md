@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HAKE001</h1>
+<h1 align="center">Hi 👋, I'm HAKR001</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakr001&label=Profile%20views&color=0e75b6&style=flat" alt="hakr001" /> </p>
