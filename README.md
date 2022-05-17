@@ -1,7 +1,7 @@
-[![MasterHead](https://tenor.com/bwVF7.gif)]
+[![MasterHead]()]
 <h1 align="center">Hi 👋, I'm HAKR001</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/bwVF7.gif
+<img align="right" alt="" width="400" src="https:
 
 - 💬 Ask me about **React,Native**
 
